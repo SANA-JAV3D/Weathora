@@ -11,7 +11,7 @@ WeatherNow is a sleek, responsive web application that provides users with real-
 -> Modern UI with translucent weather-themed background
 -> Graceful error handling for invalid or empty inputs
 
-2 What I Learned in This Project
+2. What I Learned in This Project
 
 Through building this app, I strengthened my understanding of:
 -> DOM manipulation & event handling in JavaScript
